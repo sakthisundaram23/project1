@@ -1756,9 +1756,12 @@ section {
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
 /*--------------------------------------------------------------
 
+=======
+>>>>>>> 8e13c7f10f6b73ebaab792008754a95fbcd2a29c
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -1906,13 +1909,16 @@ section {
 .hero .carousel-control-next:hover {
   opacity: 0.9;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8e13c7f10f6b73ebaab792008754a95fbcd2a29c
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../img/footerbg1.jpg") top center no-repeat;
   background-size: cover;
   font-size: 14px;
   padding: 80px 0 60px 0;
@@ -1937,6 +1943,7 @@ section {
   line-height: 1;
   font-weight: 700;
   text-transform: uppercase;
+  color: var(--color-primary);
 }
 
 .footer .footer-content .footer-info h3 span {
@@ -1972,7 +1979,7 @@ section {
 .footer .footer-content h4 {
   font-size: 16px;
   font-weight: 600;
-  color: #fff;
+  color: var(--color-primary);
   position: relative;
   padding-bottom: 12px;
 }
